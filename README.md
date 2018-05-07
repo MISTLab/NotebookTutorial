@@ -2,4 +2,4 @@
 
 Notebook tutorial given at PLOW in March 2015
 
-[View](http://slideviewer.herokuapp.com/github/MISTlab/NotebookTutorial/blob/master/IPython_Workshop.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/MISTLab/NotebookTutorial/master?filepath=IPython_Workshop.ipynb)
